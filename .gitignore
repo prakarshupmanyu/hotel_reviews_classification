@@ -2,3 +2,4 @@
 *.zip
 *.txt
 *submit*
+!hw2-data-corpus/*.txt
